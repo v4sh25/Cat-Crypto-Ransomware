@@ -5,7 +5,7 @@
  if you know how to read a code you will know the PL that i uses on it :)
  
  
- this code is for educational porposes only to defend your file  fo up comming treat 
+ this code is for educational porposes only to defend your file  fo up comming threat
  
  
  
